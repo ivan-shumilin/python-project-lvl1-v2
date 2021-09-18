@@ -12,6 +12,7 @@ def gcd_rem_division(num1, num2):
             num2 %= num1
     return num1 or num2
 
+
 def generate_round():
     """Function defines conditions of the brain-calc game."""
 
@@ -19,5 +20,5 @@ def generate_round():
     second_random_number = random.randint(1, 10)
     question = '{0} {1}'.format(first_random_number, second_random_number)
     correct_answer = str(gcd_rem_division(first_random_number,
-                                   second_random_number))
+                                          second_random_number))
     return question, correct_answer
