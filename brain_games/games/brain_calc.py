@@ -26,4 +26,3 @@ def generate_round():
                                    second_random_number,
                                    random_operator))
     return question, correct_answer
-    
