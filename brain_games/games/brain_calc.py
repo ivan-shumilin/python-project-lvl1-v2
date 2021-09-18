@@ -25,4 +25,5 @@ def generate_round():
     correct_answer = str(calculate(first_random_number,
                                    second_random_number,
                                    random_operator))
-    return question, correct_answer                  
+    return question, correct_answer
+    
