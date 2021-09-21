@@ -5,15 +5,15 @@
 ![example workflow](https://github.com/ivan-shumilin/python-project-lvl1-v2/actions/workflows/pyci.yml/badge.svg)
 <br>
 <br>
-### Demo project:
-Brain-even
-https://asciinema.org/a/pi7i4O3QqD3Ir2MF5zXd5Y5Qh
-Brain-calc
-https://asciinema.org/a/p4ztTQunjZjRqwhlmizbDUYqX
-Brain-prime
-https://asciinema.org/a/zl5e8TKCz3GUwenEgj6bbFAVr
-Brain-progression
-https://asciinema.org/a/IFPHHzEyUZ5XLMZQOf0syv63D
-Brain-gcd
-https://asciinema.org/a/ypvtY6sSqFZcoastbyv68N1xY
+### Demo project:<br>
+Brain-even<br>
+https://asciinema.org/a/pi7i4O3QqD3Ir2MF5zXd5Y5Qh<br>
+Brain-calc<br>
+https://asciinema.org/a/p4ztTQunjZjRqwhlmizbDUYqX<br>
+Brain-prime<br>
+https://asciinema.org/a/zl5e8TKCz3GUwenEgj6bbFAVr<br>
+Brain-progression<br>
+https://asciinema.org/a/IFPHHzEyUZ5XLMZQOf0syv63D<br>
+Brain-gcd<br>
+https://asciinema.org/a/ypvtY6sSqFZcoastbyv68N1xY<br>
 
