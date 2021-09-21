@@ -5,6 +5,8 @@ DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
 
 def gcd_rem_division(num1, num2):
+    """Return gcd."""
+
     while num1 != 0 and num2 != 0:
         if num1 >= num2:
             num1 %= num2
@@ -14,7 +16,7 @@ def gcd_rem_division(num1, num2):
 
 
 def generate_round():
-    """Function defines conditions of the brain-calc game."""
+    """Function defines conditions of the brain-gcd game."""
 
     first_random_number = random.randint(1, 10)
     second_random_number = random.randint(1, 10)

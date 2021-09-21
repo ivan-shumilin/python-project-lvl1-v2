@@ -4,6 +4,7 @@ DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def is_even(number):
+    """Return a parity check."""
     return number % 2 == 0
 
 
