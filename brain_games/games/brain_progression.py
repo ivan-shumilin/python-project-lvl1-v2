@@ -3,8 +3,10 @@ import random
 
 DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
+
 def creating_random_progression():
-    """"Returns random progression"""
+    """"Returns random progression."""
+
     length_pr = random.randint(8, 10)
     step_pr = random.randint(1, 10)
     first_pr = random.randint(0, 30)
@@ -19,6 +21,7 @@ def selecting_list_item(progression):
     hidden_item = str(progression[num_hidden_item])
     progression[num_hidden_item] = '..'
     return hidden_item, progression
+
 
 def generate_round():
     progression = creating_random_progression()
